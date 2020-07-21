@@ -3,7 +3,7 @@ This project is done by another 7 people along with me. It's a minor project. In
 
 
 
-Arduino CODE for the above project:/n
+Arduino CODE for the above project:
 int in1 = 9;
 int sensor = 8;
 int led = 13;
